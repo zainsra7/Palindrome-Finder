@@ -5,7 +5,7 @@ Finding all possible palindromic words from Dictionary using Multi-threading
   * Fully Documented
   * Console based application written in Java language
 
-### This was an assingment for my undergrad course of Advance Programming (Fall 2017, Fast-Nu Lahore).
+#### This was an assingment for my undergrad course of Advance Programming (Fall 2017, Fast-Nu Lahore).
 
 ## My Algotrithm
 
@@ -25,4 +25,8 @@ Finding all possible palindromic words from Dictionary using Multi-threading
 
 5. Threads works around the critical section using synchronized (results){} block, where results is the shared resource (arrayList)
 
+## Palindrome Finder in Action
 
+![Working_Shot1](https://image.ibb.co/fOmRG6/Working_Shot1.png)
+
+![Working_Shot2](https://image.ibb.co/gOtv9R/Working_Shot2.png)
